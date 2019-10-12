@@ -1,0 +1,3 @@
+Hola este documento esta impreso por
+medio del servidor del proyecto Cliente/servidor
+Atentamente Fernando Viscarra 
